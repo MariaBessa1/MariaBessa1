@@ -24,7 +24,7 @@
 </div>
 
 #### 💻 Desenvolvendo habilidades nas seguintes linguagens:
-<p align="center">
+<p>
   <img alt="claraHTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg">
   <img alt="claraCSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg">
   <img alt="claraJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
