@@ -30,7 +30,7 @@
   <img alt="claraJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
   <img alt="claraPY" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
 </p>
-##
+
 
 <div>
   <a href="https://github.com/MariaBessa1">
