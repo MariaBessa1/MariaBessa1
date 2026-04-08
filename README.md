@@ -36,10 +36,4 @@
 </p>
 
 
-<div>
-  <a href="https://github.com/MariaBessa1">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MariaBessa1&show_icons=true&theme=vue-dark&include_all_comits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaBessa1&layout=compact&langs_count=16&theme=vue-dark"/>
-</div>
-
 
