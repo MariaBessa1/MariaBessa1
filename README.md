@@ -17,9 +17,6 @@
 <a href="https://www.instagram.com/mialy_gl/" target="_blank">
   <img src="https://img.shields.io/badge/-Instagram_Artístico-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white&color=%23099db8" target="_blank">
 </a>
- 	<a href="" target="_blank">
-    <img src="https://img.shields.io/badge/Projeto_Integrador:_arte_com_JS-9146FF?style=for-the-badge&logoColor=white&color=%2307cee0" target="_blank">
-</a>
   
 </div>
 
