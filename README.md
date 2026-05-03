@@ -19,8 +19,6 @@
 </a>
 </div>
 
-![Snake animation](https://github.com/MariaBessa1/MariaBessa1/blob/output/github-contribution-grid-snake.svg)
-
 #### 💻 Desenvolvendo habilidades nas seguintes linguagens:
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="40"/>
@@ -32,4 +30,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="40" />   
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MariaBessa1/MariaBessa1/output/snake.svg" alt="Snake animation" />
+</p>
 
