@@ -14,8 +14,7 @@ jobs:
         with:
           github_user_name: MariaBessa1
           outputs: |
-            dist/snake.svg?color_snake=#10D4E0&color_dots=#083C40,#0B9199,#17AFBA,#C13BF1
-            ,#97ECF2
+            dist/snake.svg?color_snake=#10D4E0&color_dots=#083C40,#0B9199,#17AFBA,#C13BF1,#97ECF2
 
       - uses: crazy-max/ghaction-github-pages@v3
         with:
