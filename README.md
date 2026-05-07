@@ -1,6 +1,7 @@
 ### Olá Mundo!! 👾
 
 - 👨‍💻 Estudante de Ciência da Computação - SENAC;
+- 🍎 Apple Developer Academy - SENAC;
 - 🎨 Artista Digital;
 - 💙Ela/Dela
   
